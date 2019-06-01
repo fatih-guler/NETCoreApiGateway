@@ -1,0 +1,14 @@
+/home/developer/Desktop/NetCoreMicroServiceApiGateway/ApiGateway/bin/Debug/netcoreapp2.2/ApiGateway.deps.json
+/home/developer/Desktop/NetCoreMicroServiceApiGateway/ApiGateway/bin/Debug/netcoreapp2.2/ApiGateway.runtimeconfig.json
+/home/developer/Desktop/NetCoreMicroServiceApiGateway/ApiGateway/bin/Debug/netcoreapp2.2/ApiGateway.runtimeconfig.dev.json
+/home/developer/Desktop/NetCoreMicroServiceApiGateway/ApiGateway/bin/Debug/netcoreapp2.2/ApiGateway.dll
+/home/developer/Desktop/NetCoreMicroServiceApiGateway/ApiGateway/bin/Debug/netcoreapp2.2/ApiGateway.pdb
+/home/developer/Desktop/NetCoreMicroServiceApiGateway/ApiGateway/obj/Debug/netcoreapp2.2/ApiGateway.csprojAssemblyReference.cache
+/home/developer/Desktop/NetCoreMicroServiceApiGateway/ApiGateway/obj/Debug/netcoreapp2.2/ApiGateway.csproj.CoreCompileInputs.cache
+/home/developer/Desktop/NetCoreMicroServiceApiGateway/ApiGateway/obj/Debug/netcoreapp2.2/ApiGateway.RazorAssemblyInfo.cache
+/home/developer/Desktop/NetCoreMicroServiceApiGateway/ApiGateway/obj/Debug/netcoreapp2.2/ApiGateway.RazorAssemblyInfo.cs
+/home/developer/Desktop/NetCoreMicroServiceApiGateway/ApiGateway/obj/Debug/netcoreapp2.2/ApiGateway.AssemblyInfoInputs.cache
+/home/developer/Desktop/NetCoreMicroServiceApiGateway/ApiGateway/obj/Debug/netcoreapp2.2/ApiGateway.AssemblyInfo.cs
+/home/developer/Desktop/NetCoreMicroServiceApiGateway/ApiGateway/obj/Debug/netcoreapp2.2/ApiGateway.RazorTargetAssemblyInfo.cache
+/home/developer/Desktop/NetCoreMicroServiceApiGateway/ApiGateway/obj/Debug/netcoreapp2.2/ApiGateway.dll
+/home/developer/Desktop/NetCoreMicroServiceApiGateway/ApiGateway/obj/Debug/netcoreapp2.2/ApiGateway.pdb
